@@ -1,0 +1,1 @@
+This is a very basic Arduino IDE application for Witty Cloud ESP8266 that sets up an access point (AP) and controls the built in RGB LEDs through UDP.
